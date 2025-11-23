@@ -1,10 +1,9 @@
-// Случайные изображения
 const images = [
-    'https://picsum.photos/id/1018/600/400',
-    'https://picsum.photos/id/1015/600/400',
-    'https://picsum.photos/id/1022/600/400',
-    'https://picsum.photos/id/1040/600/400',
-    'https://picsum.photos/id/1002/600/400'
+    'images/1002-600x400.jpg',
+    'images/1015-600x400.jpg',
+    'images/1018-600x400.jpg',
+    'images/1022-600x400.jpg',
+    'images/1040-600x400.jpg'
 ];
 
 let currentIndex = 0;
